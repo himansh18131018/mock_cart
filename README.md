@@ -1,5 +1,7 @@
 ## A simple Shopping Cart Project
 
+### [Demo](https://himansh18131018.github.io/mock_cart/)
+
 ## Description
 * Simple shopping cart react js project in which you can add or delete products from your cart.
 * Have used a [dummy api](https://dummyjson.com/products) to fetch data alternative to which you can create your own json file for the data.
